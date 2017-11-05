@@ -30,6 +30,7 @@ Agenda
 * Things we work on
 * QA Projects
 * How to contribute
+* Questions
 
 Background
 ==========
@@ -85,7 +86,34 @@ Syntax Checks
 =============
 
 * Hacking
-* 
+* TBD
+
+Test runners
+============
+
+* stestr
+
+Test results
+============
+
+* openstack-health
+* stackviz
+
+How to contribute
+=================
+
+* Fix a bug
+
+Questions
+=========
+
+* What would you like to talk about?
+
+* Some ideas:
+* Why plugins
+* Writing new tests
+* Tempest stable interfaces
+* Hands-on?
 
 TBD
 ===
