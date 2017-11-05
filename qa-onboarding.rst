@@ -102,6 +102,7 @@ Test results
 How to contribute
 =================
 
+* Developer workflow (demo?)
 * Fix a bug
 
 Questions
