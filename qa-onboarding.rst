@@ -62,8 +62,9 @@ Things we do
 Other things we do
 ==================
 
+* Help keep the gate running
 * Support Interoperability
-* Fancy presentations
+* https://governance.openstack.org/tc/reference/projects/quality-assurance.html 
 
 Dev & Test environment
 ======================
@@ -86,24 +87,36 @@ Syntax Checks
 =============
 
 * Hacking
-* TBD
+* eslint-config-openstack
+* bashate
 
 Test runners
 ============
 
 * stestr
+* os-testr
 
 Test results
 ============
 
 * openstack-health
 * stackviz
+* coverage2sql
 
 How to contribute
 =================
 
-* Developer workflow (demo?)
+* Developer workflow
+
+  * https://docs.openstack.org/upstream-training/upstream-training-content.html
+
 * Fix a bug
+
+  * Use QA tools, and then you can find documents or some other issues
+
+* Queens Cycle Items:
+
+  * https://etherpad.openstack.org/p/qa-queens-priorities  
 
 Questions
 =========
@@ -114,15 +127,10 @@ Questions
 * Why plugins
 * Writing new tests
 * Tempest stable interfaces
-* Hands-on?
-
-TBD
-===
-
-[missing]
+* What is going on
 
 Contacts
-========
+=======
 
 * openstack-dev ML, tag [QA] in subject
 * #openstack-qa in IRC, office hours, meetings
